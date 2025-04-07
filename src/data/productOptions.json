@@ -1,0 +1,274 @@
+[
+  {
+    "value": "1e-l",
+    "name": "STAMP 1Se L"
+  },
+  {
+    "value": "1e-r",
+    "name": "STAMP 1Se R"
+  },
+  {
+    "value": "1e-s",
+    "name": "STAMP 1Se S"
+  },
+  {
+    "value": "1e-w",
+    "name": "STAMP 1Se W"
+  },
+  {
+    "value": "1h-l",
+    "name": "STAMP Hebrew 1S-L"
+  },
+  {
+    "value": "1h-r",
+    "name": "STAMP Hebrew 1S-R"
+  },
+  {
+    "value": "1h-s",
+    "name": "STAMP Hebrew 1S-S"
+  },
+  {
+    "value": "1h-w",
+    "name": "STAMP Hebrew 1S-W"
+  },
+  {
+    "value": "1m-l",
+    "name": "STAMP Monolingual 1S LS"
+  },
+  {
+    "value": "1m-r",
+    "name": "STAMP Monolingual 1S RD"
+  },
+  {
+    "value": "1m-s",
+    "name": "STAMP Monolingual 1S SP"
+  },
+  {
+    "value": "1m-w",
+    "name": "STAMP Monolingual 1S WR"
+  },
+  {
+    "value": "1s-l",
+    "name": "STAMP 1S L"
+  },
+  {
+    "value": "1sl-c",
+    "name": "STAMPSL 1S R"
+  },
+  {
+    "value": "1sl-x",
+    "name": "STAMPSL 1S E"
+  },
+  {
+    "value": "1s-r",
+    "name": "STAMP 1S R"
+  },
+  {
+    "value": "1s-s",
+    "name": "STAMP 1S S"
+  },
+  {
+    "value": "1s-w",
+    "name": "STAMP 1S W"
+  },
+  {
+    "value": "2e-ls",
+    "name": "STAMP 2Se LS"
+  },
+  {
+    "value": "2e-lw",
+    "name": "STAMP 2Se LW"
+  },
+  {
+    "value": "2e-rl",
+    "name": "STAMP 2Se RL"
+  },
+  {
+    "value": "2e-rs",
+    "name": "STAMP 2Se RS"
+  },
+  {
+    "value": "2e-rw",
+    "name": "STAMP 2Se RW"
+  },
+  {
+    "value": "2e-ws",
+    "name": "STAMP 2Se WS"
+  },
+  {
+    "value": "2h-ls",
+    "name": "STAMP Hebrew 2S-LS"
+  },
+  {
+    "value": "2h-lw",
+    "name": "STAMP Hebrew 2S-LW"
+  },
+  {
+    "value": "2h-rl",
+    "name": "STAMP Hebrew 2S-RL"
+  },
+  {
+    "value": "2h-rs",
+    "name": "STAMP Hebrew 2S-RS"
+  },
+  {
+    "value": "2h-rw",
+    "name": "STAMP Hebrew 2S-RW"
+  },
+  {
+    "value": "2h-ws",
+    "name": "STAMP Hebrew 2S-WS"
+  },
+  {
+    "value": "2m-ls",
+    "name": "STAMP Monolingual 2S LS"
+  },
+  {
+    "value": "2m-lw",
+    "name": "STAMP Monolingual 2S L/W"
+  },
+  {
+    "value": "2m-rl",
+    "name": "STAMP Monolingual 2S RL"
+  },
+  {
+    "value": "2m-rs",
+    "name": "STAMP Monolingual 2S RS"
+  },
+  {
+    "value": "2m-rw",
+    "name": "STAMP Monolingual 2S RW"
+  },
+  {
+    "value": "2m-ws",
+    "name": "STAMP Monolingual 2S WS"
+  },
+  {
+    "value": "2sl-cx",
+    "name": "STAMPSL 2S RE"
+  },
+  {
+    "value": "2s-ls",
+    "name": "STAMP 2S LS"
+  },
+  {
+    "value": "2s-lw",
+    "name": "STAMP 2S L/W"
+  },
+  {
+    "value": "2s-rl",
+    "name": "STAMP 2S RL"
+  },
+  {
+    "value": "2s-rs",
+    "name": "STAMP 2S RS"
+  },
+  {
+    "value": "2s-rw",
+    "name": "STAMP 2S RW"
+  },
+  {
+    "value": "2s-ws",
+    "name": "STAMP 2S WS"
+  },
+  {
+    "value": "2x-ws",
+    "name": "STAMP SLCTL 2S-WS"
+  },
+  {
+    "value": "3e-rls",
+    "name": "STAMP 3Se RLS"
+  },
+  {
+    "value": "3e-rwl",
+    "name": "STAMP 3Se RWL"
+  },
+  {
+    "value": "3e-rws",
+    "name": "STAMP 3Se RWS"
+  },
+  {
+    "value": "3e-wls",
+    "name": "STAMP 3Se WLS"
+  },
+  {
+    "value": "3h-rls",
+    "name": "STAMP Hebrew 3S-RLS"
+  },
+  {
+    "value": "3h-rwl",
+    "name": "STAMP Hebrew 3S-RWL"
+  },
+  {
+    "value": "3h-rws",
+    "name": "STAMP Hebrew 3S-RWS"
+  },
+  {
+    "value": "3h-wls",
+    "name": "STAMP Hebrew 3S-WLS"
+  },
+  {
+    "value": "3m-rls",
+    "name": "STAMP Monolingual 3S RLS"
+  },
+  {
+    "value": "3m-rwl",
+    "name": "STAMP Monolingual 3S RWL"
+  },
+  {
+    "value": "3m-rws",
+    "name": "STAMP Monolingual 3S RWS"
+  },
+  {
+    "value": "3m-wls",
+    "name": "STAMP Monolingual 3S WLS"
+  },
+  {
+    "value": "3s-rls",
+    "name": "STAMP 3S RLS"
+  },
+  {
+    "value": "3s-rwl",
+    "name": "STAMP 3S RWL"
+  },
+  {
+    "value": "3s-rws",
+    "name": "STAMP 3S RWS"
+  },
+  {
+    "value": "3s-wls",
+    "name": "STAMP 3S WLS"
+  },
+  {
+    "value": "4e",
+    "name": "STAMP 4Se"
+  },
+  {
+    "value": "4h",
+    "name": "STAMP Hebrew 4S"
+  },
+  {
+    "value": "4m",
+    "name": "STAMP Monolingual 4S"
+  },
+  {
+    "value": "4s",
+    "name": "STAMP 4S"
+  },
+  {
+    "value": "lat-r",
+    "name": "STAMP Latin-R"
+  },
+  {
+    "value": "sv-hw",
+    "name": "Handwritten"
+  },
+  {
+    "value": "sws",
+    "name": "STAMP WS"
+  },
+  {
+    "value": "wse",
+    "name": "STAMPe WSE"
+  }
+]
